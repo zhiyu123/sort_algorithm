@@ -1,0 +1,2 @@
+D:\VS2019 project\binary_search\Debug\binary_search.exe
+D:\VS2019 project\binary_search\Debug\binary_search.pdb
