@@ -1,24 +1,32 @@
 #include<stdio.h>
 
+void swap(int* a, int* b)		 //交换
+{
+	int temp = *a;
+	*a = *b;
+	*b = temp;
+}
 void selection_sort(int* arr, int sz)
 {
-	int i = 1;
-	for (i = 1; i < sz; i++)
+	int i = 0;
+	for (i = 0; i < sz - 1; i++)
 	{
-		int temp = 0;
-		int j = 0;
-		for (j = 0; j < i; j++)
+		int i, j;
+
+		for (i = 0; i < sz - 1; i++)
 		{
-			if (arr[j] > arr[i])
+			int min = i;
+			for (j = i + 1; j < sz; j++)     //走訪未排序的元素
 			{
-				temp = arr[i];
-				arr[i] = arr[j];
-				arr[j] = temp;
+				if (arr[j] < arr[min])		//找到目前最小值
+				{
+					min = j;				//紀錄最小值
+				}
 			}
+			swap(&arr[min], &arr[i]);	  //做交換
 		}
 	}
 }
-
 void print(int* arr, int sz)
 {
 	int i = 0;

@@ -1,2 +1,4 @@
 D:\VS2019 project\selection_sort\Debug\selection_sort.exe
 D:\VS2019 project\selection_sort\Debug\selection_sort.pdb
+D:\sort_algorithm\selection_sort\Debug\selection_sort.exe
+D:\sort_algorithm\selection_sort\Debug\selection_sort.pdb
