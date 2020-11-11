@@ -1,0 +1,4 @@
+D:\VS2019 project\merge_sort\Debug\merge_sort.exe
+D:\VS2019 project\merge_sort\Debug\merge_sort.pdb
+D:\VS2019 project\sort_algorithm\merge_sort\Debug\merge_sort.exe
+D:\VS2019 project\sort_algorithm\merge_sort\Debug\merge_sort.pdb

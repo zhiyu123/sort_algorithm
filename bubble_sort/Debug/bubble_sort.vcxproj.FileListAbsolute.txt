@@ -1,2 +1,4 @@
 D:\VS2019 project\bubble_sort\Debug\bubble_sort.exe
 D:\VS2019 project\bubble_sort\Debug\bubble_sort.pdb
+D:\VS2019 project\sort_algorithm\bubble_sort\Debug\bubble_sort.exe
+D:\VS2019 project\sort_algorithm\bubble_sort\Debug\bubble_sort.pdb

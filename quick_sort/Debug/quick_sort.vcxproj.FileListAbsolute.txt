@@ -1,0 +1,4 @@
+D:\VS2019 project\quick_sort\Debug\quick_sort.exe
+D:\VS2019 project\quick_sort\Debug\quick_sort.pdb
+D:\VS2019 project\sort_algorithm\quick_sort\Debug\quick_sort.exe
+D:\VS2019 project\sort_algorithm\quick_sort\Debug\quick_sort.pdb

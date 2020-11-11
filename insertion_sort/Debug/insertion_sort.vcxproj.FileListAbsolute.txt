@@ -1,2 +1,4 @@
 D:\VS2019 project\insertion_sort\Debug\insertion_sort.exe
 D:\VS2019 project\insertion_sort\Debug\insertion_sort.pdb
+D:\VS2019 project\sort_algorithm\insertion_sort\Debug\insertion_sort.exe
+D:\VS2019 project\sort_algorithm\insertion_sort\Debug\insertion_sort.pdb

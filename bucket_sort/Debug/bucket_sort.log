@@ -1,0 +1,4 @@
+﻿  bucket_sort.cpp
+D:\VS2019 project\sort_algorithm\bucket_sort\bucket_sort.cpp(37,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\VS2019 project\sort_algorithm\bucket_sort\bucket_sort.cpp(45,20): warning C4018: “<”: 有符号/无符号不匹配
+  bucket_sort.vcxproj -> D:\VS2019 project\sort_algorithm\bucket_sort\Debug\bucket_sort.exe

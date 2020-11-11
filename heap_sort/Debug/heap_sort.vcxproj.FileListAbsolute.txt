@@ -1,0 +1,4 @@
+D:\VS2019 project\heap_sort\Debug\heap_sort.exe
+D:\VS2019 project\heap_sort\Debug\heap_sort.pdb
+D:\VS2019 project\sort_algorithm\heap_sort\Debug\heap_sort.exe
+D:\VS2019 project\sort_algorithm\heap_sort\Debug\heap_sort.pdb
